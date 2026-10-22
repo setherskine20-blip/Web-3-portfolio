@@ -1,0 +1,13 @@
+# Foundry
+lib/
+out/
+cache/
+broadcast/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
